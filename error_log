@@ -1,0 +1,2 @@
+[17-Jun-2017 04:43:42 UTC] PHP Warning:  require_once(/home/t85757/public_html/recover/wp-settings.php): failed to open stream: No such file or directory in /home/t85757/public_html/recover/wp-config.php on line 89
+[17-Jun-2017 04:43:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/t85757/public_html/recover/wp-settings.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/t85757/public_html/recover/wp-config.php on line 89
