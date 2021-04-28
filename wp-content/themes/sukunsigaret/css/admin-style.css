@@ -1,0 +1,5 @@
+#adminmenu #menu-posts-custom_post_type_name .wp-menu-image:before {
+ content: "\f135"; //find this by clicking on the individual icon on Font Awesome's site.
+ font-family: 'FontAwesome' !important;
+ font-size: 18px !important;
+}

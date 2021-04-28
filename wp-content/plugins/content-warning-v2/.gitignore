@@ -1,0 +1,30 @@
+#Dreamweaver .TMP files
+*.TMP
+*.tmp
+
+# Log Files
+*_log
+*.log
+
+# Backup files
+*.bak
+*.lwbak
+*.map
+
+# Cache
+cache
+cache_off
+cache_disabled
+backups
+_notes
+.ftpquota
+
+# DW File
+dw_php_codehinting.config
+
+# OS Files
+.DS_Store
+
+#npm stuffs
+node_modules/
+.sass-cache/
