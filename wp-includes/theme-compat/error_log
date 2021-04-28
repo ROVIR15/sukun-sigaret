@@ -1,0 +1,3 @@
+[22-Oct-2017 04:57:49 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/sukunsigaret/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[22-Oct-2017 08:13:39 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/sukunsigaret/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[22-Oct-2017 11:59:02 UTC] PHP Fatal error:  Call to undefined function _e() in /home/sukunsigaret/public_html/wp-includes/theme-compat/embed-404.php on line 14
